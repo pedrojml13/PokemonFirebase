@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="yellow">#FFCC00</color>
+    <color name="red">#FF0000</color>
+    <color name="purple">#4D2E97</color>
+    <color name="blue">#3B4CCA</color>
+    <color name="orange">#B1D37A08</color>
+    <color name="grey">#383636</color>
+    <color name="semi_transparent">#C5625E5E</color>
+    <color name="settings_linearbk">#B8711853</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="log_off">#E92323</color>
+    <color name="background_splash">#58B8CA</color>
+
+    <color name="type1_color">#FFFFFF</color>
+    <color name="normal">#AEAEA4</color>
+    <color name="poison">#A15A94</color>
+    <color name="psychic">#EC5AA1</color>
+    <color name="food">#C9B070</color>
+    <color name="grass">#79C45B</color>
+    <color name="ground">#D9BB63</color>
+    <color name="ice">#7FDEFA</color>
+    <color name="slug">#65C174</color>
+    <color name="fire">#EC4E45</color>
+    <color name="rock">#BCAE71</color>
+    <color name="dragon">#8270E8</color>
+    <color name="plastic">#928FBE</color>
+    <color name="water">#47A0F0</color>
+    <color name="bug">#AFBF45</color>
+    <color name="dark">#865E52</color>
+    <color name="wind">#D8AF6D</color>
+    <color name="fighting">#B25546</color>
+    <color name="ghost">#6E6DBD</color>
+    <color name="steel">#B3B2C4</color>
+    <color name="crystal">#68B6C0</color>
+    <color name="flying">#6B99EF</color>
+    <color name="electric">#F9D052</color>
+    <color name="fairy">#E6A0E6</color>
+    <color name="light">#DADB27</color>
+
+
+</resources>
