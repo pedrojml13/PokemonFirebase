@@ -70,11 +70,12 @@
 
 
 ## 🖼️ Capturas de pantalla
-![Inicio de sesión](images/Screenshot_20250126_113424.png){:width="400"}
-![Registro](images/Screenshot_20250126_113456.png){:width="400"}
-![Pokemon capturados](images/Screenshot_20250126_113519.png){:width="400"}
-![Pokedex](images/Screenshot_20250126_113529.png){:width="400"}
-![Ajustes](images/Screenshot_20250126_113538.png){:width="400"}
+<img src="images/Screenshot_20250126_113424.png" alt="Inicio de sesión" width="400"/><br><br>
+<img src="images/Screenshot_20250126_113456.png" alt="Registro" width="400"/><br><br>
+<img src="images/Screenshot_20250126_113519.png" alt="Pokemon capturados" width="400"/><br><br>
+<img src="images/Screenshot_20250126_113529.png" alt="Pokedex" width="400"/><br><br>
+<img src="images/Screenshot_20250126_113538.png" alt="Ajustes" width="400"/><br><br>
+
 
 ---
 
