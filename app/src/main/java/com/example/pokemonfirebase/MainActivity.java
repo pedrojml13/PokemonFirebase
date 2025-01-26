@@ -1,24 +1,15 @@
 package com.example.pokemonfirebase;
 
-import android.content.Intent;
-import android.content.SharedPreferences;
+
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentTransaction;
-import androidx.viewpager2.widget.ViewPager2;
 import com.example.pokemonfirebase.databinding.ActivityMainBinding;
 import com.google.android.material.tabs.TabLayoutMediator;
-
-import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding; // Declaración de View Binding
     private ViewPagerAdapter viewPagerAdapter;
-    private CapturedPokemonFragment capturedPokemonFragment;
-    private PokedexFragment pokedexFragment;
-    private SettingsFragment settingsFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -59,16 +50,12 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
     public void RefreshLanguaje(){
-
             binding.tabLayout.getTabAt(0).setText(R.string.captured_pokemons);
             binding.tabLayout.getTabAt(1).setText(R.string.pokedex);
             binding.tabLayout.getTabAt(2).setText(R.string.settings);
-
     }
 
-    // Método para obtener el fragmento CapturedPokemonFragment
     public CapturedPokemonFragment getCapturedPokemonFragment() {
         return viewPagerAdapter.getCapturedPokemonFragment();
     }
