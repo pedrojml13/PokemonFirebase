@@ -4,6 +4,7 @@
 
 ---
 
+
 ## 📱 Características principales
 
 - **Inicio de sesión y registro:** Autenticación segura mediante Firebase Authentication.
@@ -18,12 +19,14 @@
 - **Lenguaje de programación:** Java.
 - **Framework:** Android SDK.
 - **API de Pokémon:** Uso de Retrofit para consumir datos en tiempo real.
-- **Firebase:** Usado para la autenticación y el almacenamiento de datos con Firestore.
-- **Librerías:**
-  - Retrofit: Para la comunicación con la API.
-  - Picasso: Para la carga de imágenes.
-  - Gson: Para manejar objetos JSON.
-  - View Binding: Simplifica la interacción con vistas.
+- **Firebase:** Autenticación y almacenamiento con Firestore.
+
+**Librerías:**
+- **Retrofit**: Para la comunicación con la API.
+- **Picasso**: Para la carga de imágenes.
+- **Gson**: Para manejar objetos JSON.
+- **View Binding**: Simplifica la interacción con vistas.
+
 
 ---
 
