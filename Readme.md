@@ -70,7 +70,7 @@
 
 
 ## 🖼️ Capturas de pantalla
-<img src="images/Screenshot_20250126_113424.png" alt="Inicio de sesión" width="400"/><br><br>
+<img src="images/Screenshot_20250126_113424.png" alt="Inicio de sesión" width="400"/>
 <img src="images/Screenshot_20250126_113456.png" alt="Registro" width="400"/><br><br>
 <img src="images/Screenshot_20250126_113519.png" alt="Pokemon capturados" width="400"/><br><br>
 <img src="images/Screenshot_20250126_113529.png" alt="Pokedex" width="400"/><br><br>

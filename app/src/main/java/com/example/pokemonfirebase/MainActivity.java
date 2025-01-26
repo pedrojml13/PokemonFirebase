@@ -6,6 +6,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.pokemonfirebase.databinding.ActivityMainBinding;
 import com.google.android.material.tabs.TabLayoutMediator;
 
+import java.util.Objects;
+
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding; // Declaración de View Binding
@@ -51,9 +53,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void RefreshLanguaje(){
-            binding.tabLayout.getTabAt(0).setText(R.string.captured_pokemons);
-            binding.tabLayout.getTabAt(1).setText(R.string.pokedex);
-            binding.tabLayout.getTabAt(2).setText(R.string.settings);
+            Objects.requireNonNull(binding.tabLayout.getTabAt(0)).setText(R.string.captured_pokemons);
+            Objects.requireNonNull(binding.tabLayout.getTabAt(1)).setText(R.string.pokedex);
+            Objects.requireNonNull(binding.tabLayout.getTabAt(2)).setText(R.string.settings);
     }
 
     public CapturedPokemonFragment getCapturedPokemonFragment() {
