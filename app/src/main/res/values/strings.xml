@@ -23,6 +23,7 @@
     <string name="pokedex">Pokédex</string>
     <string name="settings">Ajustes</string>
     <string name="delete_captured_pokemons">Eliminar Pokémon Capturados</string>
+    <string name="pokemon_deleted">Pokemon eliminado</string>
     <string name="deletion_enabled">Eliminación activada</string>
     <string name="deletion_disabled">Eliminación desactivada</string>
     <string name="change_languaje">Cambiar idioma</string>

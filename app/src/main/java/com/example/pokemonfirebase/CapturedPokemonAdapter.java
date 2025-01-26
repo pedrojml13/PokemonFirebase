@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -114,6 +115,7 @@ public class CapturedPokemonAdapter extends RecyclerView.Adapter<CapturedPokemon
                                     capturedPokemonList.remove(pokemon); // Eliminar el objeto Pokémon específico
                                     // Notificar al adaptador que los datos han cambiado
                                     notifyDataSetChanged();
+                                    Toast.makeText(itemView.getContext(), R.string.pokemon_deleted, Toast.LENGTH_SHORT).show();
 
                                 })
                                 .addOnFailureListener(e -> {
