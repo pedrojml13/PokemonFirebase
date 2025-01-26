@@ -88,7 +88,7 @@
 
 <figure>
   <figcaption>Detalles del Pokemon</figcaption>
-  <img src="images/Screenshot_20250126_115615.png" alt="Pokemon capturados" width="400"/>
+  <img src="images/Screenshot_20250126_120654.png" alt="Pokemon capturados" width="400"/>
 </figure><br><br>
 
 <figure>
