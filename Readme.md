@@ -70,11 +70,37 @@
 ---
 
 ## 🖼️ Capturas de pantalla
-<img src="images/Screenshot_20250126_113424.png" alt="Inicio de sesión" width="400"/><br><br>
-<img src="images/Screenshot_20250126_113456.png" alt="Registro" width="400"/><br><br>
-<img src="images/Screenshot_20250126_113519.png" alt="Pokemon capturados" width="400"/><br><br>
-<img src="images/Screenshot_20250126_113529.png" alt="Pokedex" width="400"/><br><br>
-<img src="images/Screenshot_20250126_113538.png" alt="Ajustes" width="400"/><br><br>
+
+<figure>
+  <figcaption>Inicio de sesión</figcaption>
+  <img src="images/Screenshot_20250126_113424.png" alt="Inicio de sesión" width="400"/>
+</figure><br><br>
+
+<figure>
+  <figcaption>Registro</figcaption>
+  <img src="images/Screenshot_20250126_113456.png" alt="Registro" width="400"/>
+</figure><br><br>
+
+<figure>
+  <figcaption>Pokemon capturados</figcaption>
+  <img src="images/Screenshot_20250126_113519.png" alt="Pokemon capturados" width="400"/>
+</figure><br><br>
+
+<figure>
+  <figcaption>Detalles del Pokemon</figcaption>
+  <img src="images/Screenshot_20250126_115615" alt="Pokemon capturados" width="400"/>
+</figure><br><br>
+
+<figure>
+  <figcaption>Pokedex</figcaption>
+  <img src="images/Screenshot_20250126_113529.png" alt="Pokedex" width="400"/>
+</figure><br><br>
+
+<figure>
+  <figcaption>Ajustes</figcaption>
+  <img src="images/Screenshot_20250126_113538.png" alt="Ajustes" width="400"/>
+</figure><br><br>
+
 
 
 ---
