@@ -68,11 +68,13 @@
 
 ## 🖼️ Capturas de pantalla
 
-![Inicio de sesión](images/Screenshot_20250126_113424.png)
-![Registro](images/Screenshot_20250126_113456.png)
-![Pokemon capturados](images/Screenshot_20250126_113519.png)
-![Pokedex](images/Screenshot_20250126_113529.png)
-![Ajustes](images/Screenshot_20250126_113538.png)
+
+## 🖼️ Capturas de pantalla
+![Inicio de sesión](images/Screenshot_20250126_113424.png){:width="400"}
+![Registro](images/Screenshot_20250126_113456.png){:width="400"}
+![Pokemon capturados](images/Screenshot_20250126_113519.png){:width="400"}
+![Pokedex](images/Screenshot_20250126_113529.png){:width="400"}
+![Ajustes](images/Screenshot_20250126_113538.png){:width="400"}
 
 ---
 
